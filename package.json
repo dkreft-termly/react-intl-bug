@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "preact": "^10.19.3",
-    "react-intl": "^6.3.0"
+    "react-intl": "6.2.10"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.7.0",
